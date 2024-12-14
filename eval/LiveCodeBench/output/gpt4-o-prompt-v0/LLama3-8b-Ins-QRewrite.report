@@ -1,0 +1,511 @@
+{'idx': 0, 'platform': 'codeforces', 'question_title': 'A. Short Sort', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 1, 'platform': 'codeforces', 'question_title': 'B. Good Kid', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 2, 'platform': 'codeforces', 'question_title': 'D. 1D Eraser', 'difficulty': 'easy', 'pass@1': 0.8}
+{'idx': 3, 'platform': 'codeforces', 'question_title': 'B. Chemistry', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 4, 'platform': 'codeforces', 'question_title': 'C. Raspberries', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 5, 'platform': 'codeforces', 'question_title': 'A. Game with Integers', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 6, 'platform': 'codeforces', 'question_title': 'B. 250 Thousand Tons of TNT', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 7, 'platform': 'codeforces', 'question_title': 'C. Yarik and Array', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 8, 'platform': 'codeforces', 'question_title': 'D. Yarik and Musical Notes', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 9, 'platform': 'leetcode', 'question_title': 'number-of-senior-citizens', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 10, 'platform': 'leetcode', 'question_title': 'sum-in-a-matrix', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 11, 'platform': 'leetcode', 'question_title': 'maximum-or', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 12, 'platform': 'leetcode', 'question_title': 'maximum-strength-of-a-group', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 13, 'platform': 'leetcode', 'question_title': 'extra-characters-in-a-string', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 14, 'platform': 'leetcode', 'question_title': 'buy-two-chocolates', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 15, 'platform': 'leetcode', 'question_title': 'count-of-integers', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 16, 'platform': 'leetcode', 'question_title': 'find-the-distinct-difference-array', 'difficulty': 'easy', 'pass@1': 0.1}
+{'idx': 17, 'platform': 'leetcode', 'question_title': 'number-of-adjacent-elements-with-the-same-color', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 18, 'platform': 'leetcode', 'question_title': 'power-of-heroes', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 19, 'platform': 'leetcode', 'question_title': 'semi-ordered-permutation', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 20, 'platform': 'leetcode', 'question_title': 'find-the-longest-semi-repetitive-substring', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 21, 'platform': 'leetcode', 'question_title': 'find-the-losers-of-the-circular-game', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 22, 'platform': 'leetcode', 'question_title': 'neighboring-bitwise-xor', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 23, 'platform': 'leetcode', 'question_title': 'minimum-string-length-after-removing-substrings', 'difficulty': 'easy', 'pass@1': 0.9}
+{'idx': 24, 'platform': 'leetcode', 'question_title': 'find-the-punishment-number-of-an-integer', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 25, 'platform': 'leetcode', 'question_title': 'painting-the-walls', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 26, 'platform': 'leetcode', 'question_title': 'collecting-chocolates', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 27, 'platform': 'leetcode', 'question_title': 'determine-the-minimum-sum-of-a-k-avoiding-array', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 28, 'platform': 'leetcode', 'question_title': 'find-the-maximum-achievable-number', 'difficulty': 'easy', 'pass@1': 0.4}
+{'idx': 29, 'platform': 'leetcode', 'question_title': 'lexicographically-smallest-palindrome', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 30, 'platform': 'leetcode', 'question_title': 'minimum-cost-to-make-all-characters-equal', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 31, 'platform': 'leetcode', 'question_title': 'remove-trailing-zeros-from-a-string', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 32, 'platform': 'leetcode', 'question_title': 'check-if-the-number-is-fascinating', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 33, 'platform': 'leetcode', 'question_title': 'minimize-string-length', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 34, 'platform': 'leetcode', 'question_title': 'greatest-common-divisor-traversal', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 35, 'platform': 'leetcode', 'question_title': 'lexicographically-smallest-string-after-substring-operation', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 36, 'platform': 'leetcode', 'question_title': 'number-of-beautiful-pairs', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 37, 'platform': 'leetcode', 'question_title': 'find-the-longest-equal-subarray', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 38, 'platform': 'leetcode', 'question_title': 'count-zero-request-servers', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 39, 'platform': 'leetcode', 'question_title': 'relocate-marbles', 'difficulty': 'medium', 'pass@1': 0.6}
+{'idx': 40, 'platform': 'leetcode', 'question_title': 'minimum-operations-to-make-the-integer-zero', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 41, 'platform': 'leetcode', 'question_title': 'maximum-sum-queries', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 42, 'platform': 'leetcode', 'question_title': 'sum-of-squares-of-special-elements', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 43, 'platform': 'leetcode', 'question_title': 'find-the-value-of-the-partition', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 44, 'platform': 'leetcode', 'question_title': 'find-maximum-number-of-string-pairs', 'difficulty': 'easy', 'pass@1': 0.2}
+{'idx': 45, 'platform': 'leetcode', 'question_title': 'special-permutations', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 46, 'platform': 'leetcode', 'question_title': 'sum-of-imbalance-numbers-of-all-subarrays', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 47, 'platform': 'leetcode', 'question_title': 'construct-the-longest-new-string', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 48, 'platform': 'leetcode', 'question_title': 'decremental-string-concatenation', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 49, 'platform': 'leetcode', 'question_title': 'maximum-number-of-jumps-to-reach-the-last-index', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 50, 'platform': 'leetcode', 'question_title': 'count-complete-subarrays-in-an-array', 'difficulty': 'medium', 'pass@1': 1.0}
+{'idx': 51, 'platform': 'leetcode', 'question_title': 'total-distance-traveled', 'difficulty': 'easy', 'pass@1': 0.3}
+{'idx': 52, 'platform': 'leetcode', 'question_title': 'longest-even-odd-subarray-with-threshold', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 53, 'platform': 'leetcode', 'question_title': 'ways-to-split-array-into-good-subarrays', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 54, 'platform': 'leetcode', 'question_title': 'continuous-subarrays', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 55, 'platform': 'leetcode', 'question_title': 'longest-non-decreasing-subarray-from-two-arrays', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 56, 'platform': 'leetcode', 'question_title': 'longest-alternating-subarray', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 57, 'platform': 'leetcode', 'question_title': 'largest-element-in-an-array-after-merge-operations', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 58, 'platform': 'leetcode', 'question_title': 'prime-pairs-with-target-sum', 'difficulty': 'medium', 'pass@1': 0.4}
+{'idx': 59, 'platform': 'leetcode', 'question_title': 'number-of-employees-who-met-the-target', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 60, 'platform': 'leetcode', 'question_title': 'shortest-string-that-contains-three-strings', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 61, 'platform': 'leetcode', 'question_title': 'apply-operations-to-make-all-array-elements-equal-to-zero', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 62, 'platform': 'leetcode', 'question_title': 'minimum-changes-to-make-k-semi-palindromes', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 63, 'platform': 'leetcode', 'question_title': 'split-strings-by-separator', 'difficulty': 'easy', 'pass@1': 0.3}
+{'idx': 64, 'platform': 'leetcode', 'question_title': 'ways-to-express-an-integer-as-sum-of-powers', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 65, 'platform': 'leetcode', 'question_title': 'partition-string-into-minimum-beautiful-substrings', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 66, 'platform': 'leetcode', 'question_title': 'length-of-the-longest-valid-substring', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 67, 'platform': 'leetcode', 'question_title': 'faulty-keyboard', 'difficulty': 'easy', 'pass@1': 0.5}
+{'idx': 68, 'platform': 'leetcode', 'question_title': 'sort-vowels-in-a-string', 'difficulty': 'medium', 'pass@1': 1.0}
+{'idx': 69, 'platform': 'leetcode', 'question_title': 'minimum-index-of-a-valid-split', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 70, 'platform': 'leetcode', 'question_title': 'maximum-beauty-of-an-array-after-applying-operation', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 71, 'platform': 'leetcode', 'question_title': 'check-if-array-is-good', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 72, 'platform': 'leetcode', 'question_title': 'visit-array-positions-to-maximize-score', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 73, 'platform': 'leetcode', 'question_title': 'max-pair-sum-in-an-array', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 74, 'platform': 'leetcode', 'question_title': 'count-of-interesting-subarrays', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 75, 'platform': 'leetcode', 'question_title': 'check-if-it-is-possible-to-split-array', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 76, 'platform': 'leetcode', 'question_title': 'count-pairs-whose-sum-is-less-than-target', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 77, 'platform': 'leetcode', 'question_title': 'maximum-number-of-groups-with-increasing-length', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 78, 'platform': 'leetcode', 'question_title': 'minimum-seconds-to-equalize-a-circular-array', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 79, 'platform': 'leetcode', 'question_title': 'count-stepping-numbers-in-range', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 80, 'platform': 'leetcode', 'question_title': 'minimum-time-to-make-array-sum-at-most-x', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 81, 'platform': 'leetcode', 'question_title': 'count-pairs-of-points-with-distance-k', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 82, 'platform': 'leetcode', 'question_title': 'maximum-sum-of-almost-unique-subarray', 'difficulty': 'medium', 'pass@1': 1.0}
+{'idx': 83, 'platform': 'leetcode', 'question_title': 'account-balance-after-rounded-purchase', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 84, 'platform': 'leetcode', 'question_title': 'check-if-a-string-is-an-acronym-of-words', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 85, 'platform': 'leetcode', 'question_title': 'maximize-the-profit-as-the-salesman', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 86, 'platform': 'leetcode', 'question_title': 'count-symmetric-integers', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 87, 'platform': 'leetcode', 'question_title': 'check-if-strings-can-be-made-equal-with-operations-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 88, 'platform': 'leetcode', 'question_title': 'minimum-absolute-difference-between-elements-with-constraint', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 89, 'platform': 'leetcode', 'question_title': 'number-of-beautiful-integers-in-the-range', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 90, 'platform': 'leetcode', 'question_title': 'make-string-a-subsequence-using-cyclic-increments', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 91, 'platform': 'leetcode', 'question_title': 'furthest-point-from-origin', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 92, 'platform': 'leetcode', 'question_title': 'string-transformation', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 93, 'platform': 'leetcode', 'question_title': 'minimum-operations-to-form-subsequence-with-target-sum', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 94, 'platform': 'leetcode', 'question_title': 'construct-product-matrix', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 95, 'platform': 'leetcode', 'question_title': 'maximize-value-of-function-in-a-ball-passing-game', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 96, 'platform': 'leetcode', 'question_title': 'apply-operations-to-make-two-strings-equal', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 97, 'platform': 'leetcode', 'question_title': 'points-that-intersect-with-cars', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 98, 'platform': 'leetcode', 'question_title': 'minimum-operations-to-collect-elements', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 99, 'platform': 'leetcode', 'question_title': 'minimum-right-shifts-to-sort-the-array', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 100, 'platform': 'leetcode', 'question_title': 'minimum-operations-to-make-a-special-number', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 101, 'platform': 'leetcode', 'question_title': 'maximum-element-sum-of-a-complete-subset-of-indices', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 102, 'platform': 'leetcode', 'question_title': 'maximum-odd-binary-number', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 103, 'platform': 'leetcode', 'question_title': 'split-array-into-maximum-number-of-subarrays', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 104, 'platform': 'leetcode', 'question_title': 'minimum-array-length-after-pair-removals', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 105, 'platform': 'leetcode', 'question_title': 'count-of-sub-multisets-with-bounded-sum', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 106, 'platform': 'leetcode', 'question_title': 'sum-of-values-at-indices-with-k-set-bits', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 107, 'platform': 'leetcode', 'question_title': 'minimum-number-of-operations-to-make-array-empty', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 108, 'platform': 'leetcode', 'question_title': 'happy-students', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 109, 'platform': 'leetcode', 'question_title': 'length-of-the-longest-subsequence-that-sums-to-target', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 110, 'platform': 'leetcode', 'question_title': 'beautiful-towers-i', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 111, 'platform': 'leetcode', 'question_title': 'minimum-size-subarray-in-infinite-array', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 112, 'platform': 'leetcode', 'question_title': 'shortest-and-lexicographically-smallest-beautiful-string', 'difficulty': 'medium', 'pass@1': 0.5}
+{'idx': 113, 'platform': 'leetcode', 'question_title': 'minimum-processing-time', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 114, 'platform': 'leetcode', 'question_title': 'apply-operations-on-array-to-maximize-sum-of-squares', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 115, 'platform': 'leetcode', 'question_title': 'maximum-value-of-an-ordered-triplet-i', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 116, 'platform': 'leetcode', 'question_title': 'subarrays-distinct-element-sum-of-squares-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 117, 'platform': 'leetcode', 'question_title': 'last-visited-integers', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 118, 'platform': 'leetcode', 'question_title': 'minimum-number-of-groups-to-create-a-valid-assignment', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 119, 'platform': 'leetcode', 'question_title': 'minimum-equal-sum-of-two-arrays-after-replacing-zeros', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 120, 'platform': 'leetcode', 'question_title': 'divisible-and-non-divisible-sums-difference', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 121, 'platform': 'leetcode', 'question_title': 'minimum-number-of-changes-to-make-binary-string-beautiful', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 122, 'platform': 'leetcode', 'question_title': 'minimum-sum-of-mountain-triplets-i', 'difficulty': 'easy', 'pass@1': 0.9}
+{'idx': 123, 'platform': 'leetcode', 'question_title': 'find-the-k-or-of-an-array', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 124, 'platform': 'leetcode', 'question_title': 'maximum-balanced-subsequence-sum', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 125, 'platform': 'leetcode', 'question_title': 'find-champion-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 126, 'platform': 'leetcode', 'question_title': 'minimum-operations-to-maximize-last-elements-in-arrays', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 127, 'platform': 'leetcode', 'question_title': 'maximum-xor-product', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 128, 'platform': 'leetcode', 'question_title': 'maximum-strong-pair-xor-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 129, 'platform': 'leetcode', 'question_title': 'find-words-containing-character', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 130, 'platform': 'leetcode', 'question_title': 'separate-black-and-white-balls', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 131, 'platform': 'leetcode', 'question_title': 'apply-operations-to-maximize-frequency-score', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 132, 'platform': 'leetcode', 'question_title': 'distribute-candies-among-children-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 133, 'platform': 'leetcode', 'question_title': 'number-of-strings-which-can-be-rearranged-to-contain-substring', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 134, 'platform': 'leetcode', 'question_title': 'palindrome-rearrangement-queries', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 135, 'platform': 'leetcode', 'question_title': 'find-common-elements-between-two-arrays', 'difficulty': 'easy', 'pass@1': 0.5}
+{'idx': 136, 'platform': 'leetcode', 'question_title': 'make-three-strings-equal', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 137, 'platform': 'leetcode', 'question_title': 'minimum-number-of-coins-for-fruits', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 138, 'platform': 'leetcode', 'question_title': 'count-beautiful-substrings-i', 'difficulty': 'medium', 'pass@1': 1.0}
+{'idx': 139, 'platform': 'leetcode', 'question_title': 'find-maximum-non-decreasing-array-length', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 140, 'platform': 'leetcode', 'question_title': 'count-the-number-of-good-partitions', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 141, 'platform': 'leetcode', 'question_title': 'count-subarrays-where-max-element-appears-at-least-k-times', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 142, 'platform': 'leetcode', 'question_title': 'make-lexicographically-smallest-array-by-swapping-elements', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 143, 'platform': 'leetcode', 'question_title': 'count-tested-devices-after-test-operations', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 144, 'platform': 'leetcode', 'question_title': 'find-the-peaks', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 145, 'platform': 'leetcode', 'question_title': 'count-complete-substrings', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 146, 'platform': 'leetcode', 'question_title': 'count-the-number-of-infection-sequences', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 147, 'platform': 'leetcode', 'question_title': 'length-of-longest-subarray-with-at-most-k-frequency', 'difficulty': 'medium', 'pass@1': 0.5}
+{'idx': 148, 'platform': 'leetcode', 'question_title': 'minimum-number-game', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 149, 'platform': 'leetcode', 'question_title': 'find-missing-and-repeated-values', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 150, 'platform': 'leetcode', 'question_title': 'maximum-size-of-a-set-after-removals', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 151, 'platform': 'leetcode', 'question_title': 'minimum-cost-to-make-array-equalindromic', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 152, 'platform': 'leetcode', 'question_title': 'remove-adjacent-almost-equal-characters', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 153, 'platform': 'leetcode', 'question_title': 'minimum-number-of-coins-to-be-added', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 154, 'platform': 'leetcode', 'question_title': 'maximize-the-number-of-partitions-after-operations', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 155, 'platform': 'leetcode', 'question_title': 'double-modular-exponentiation', 'difficulty': 'medium', 'pass@1': 1.0}
+{'idx': 156, 'platform': 'leetcode', 'question_title': 'minimum-cost-to-convert-string-i', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 157, 'platform': 'leetcode', 'question_title': 'smallest-missing-integer-greater-than-sequential-prefix-sum', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 158, 'platform': 'leetcode', 'question_title': 'minimum-number-of-operations-to-make-x-and-y-equal', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 159, 'platform': 'leetcode', 'question_title': 'maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 160, 'platform': 'leetcode', 'question_title': 'count-elements-with-maximum-frequency', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 161, 'platform': 'leetcode', 'question_title': 'count-the-number-of-powerful-integers', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 162, 'platform': 'leetcode', 'question_title': 'minimize-length-of-array-using-operations', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 163, 'platform': 'leetcode', 'question_title': 'find-beautiful-indices-in-the-given-array-i', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 164, 'platform': 'leetcode', 'question_title': 'check-if-bitwise-or-has-trailing-zeros', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 165, 'platform': 'leetcode', 'question_title': 'minimum-number-of-operations-to-make-array-xor-equal-to-k', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 166, 'platform': 'leetcode', 'question_title': 'maximum-area-of-longest-diagonal-rectangle', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 167, 'platform': 'leetcode', 'question_title': 'count-the-number-of-incremovable-subarrays-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 168, 'platform': 'leetcode', 'question_title': 'minimize-or-of-remaining-elements-using-operations', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 169, 'platform': 'leetcode', 'question_title': 'find-polygon-with-the-largest-perimeter', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 170, 'platform': 'leetcode', 'question_title': 'divide-an-array-into-subarrays-with-minimum-cost-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 171, 'platform': 'leetcode', 'question_title': 'maximum-good-subarray-sum', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 172, 'platform': 'leetcode', 'question_title': 'find-longest-special-substring-that-occurs-thrice-i', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 173, 'platform': 'leetcode', 'question_title': 'number-of-subarrays-that-match-a-pattern-i', 'difficulty': 'medium', 'pass@1': 0.6}
+{'idx': 174, 'platform': 'leetcode', 'question_title': 'alice-and-bob-playing-flower-game', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 175, 'platform': 'leetcode', 'question_title': 'find-if-array-can-be-sorted', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 176, 'platform': 'leetcode', 'question_title': 'earliest-second-to-mark-indices-i', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 177, 'platform': 'leetcode', 'question_title': 'minimum-time-to-revert-word-to-initial-state-i', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 178, 'platform': 'leetcode', 'question_title': 'maximize-consecutive-elements-in-an-array-after-modification', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 179, 'platform': 'leetcode', 'question_title': 'find-the-maximum-number-of-elements-in-subset', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 180, 'platform': 'leetcode', 'question_title': 'mark-elements-on-array-by-performing-queries', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 181, 'platform': 'leetcode', 'question_title': 'apply-operations-to-make-string-empty', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 182, 'platform': 'leetcode', 'question_title': 'count-prefix-and-suffix-pairs-i', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 183, 'platform': 'leetcode', 'question_title': 'ant-on-the-boundary', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 184, 'platform': 'leetcode', 'question_title': 'number-of-changing-keys', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 185, 'platform': 'leetcode', 'question_title': 'maximum-strength-of-k-disjoint-subarrays', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 186, 'platform': 'leetcode', 'question_title': 'find-the-sum-of-subsequence-powers', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 187, 'platform': 'leetcode', 'question_title': 'maximum-palindromes-after-operations', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 188, 'platform': 'leetcode', 'question_title': 'maximum-number-of-operations-with-the-same-score-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 189, 'platform': 'leetcode', 'question_title': 'split-the-array', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 190, 'platform': 'leetcode', 'question_title': 'minimum-moves-to-pick-k-ones', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 191, 'platform': 'leetcode', 'question_title': 'apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 192, 'platform': 'leetcode', 'question_title': 'find-the-length-of-the-longest-common-prefix', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 193, 'platform': 'leetcode', 'question_title': 'minimum-operations-to-exceed-threshold-value-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 194, 'platform': 'leetcode', 'question_title': 'apple-redistribution-into-boxes', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 195, 'platform': 'leetcode', 'question_title': 'count-substrings-starting-and-ending-with-given-character', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 196, 'platform': 'leetcode', 'question_title': 'minimize-manhattan-distances', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 197, 'platform': 'leetcode', 'question_title': 'find-the-sum-of-the-power-of-all-subsequences', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 198, 'platform': 'leetcode', 'question_title': 'lexicographically-smallest-string-after-operations-with-constraint', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 199, 'platform': 'leetcode', 'question_title': 'distribute-elements-into-two-arrays-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 200, 'platform': 'leetcode', 'question_title': 'maximum-length-substring-with-two-occurrences', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 201, 'platform': 'leetcode', 'question_title': 'maximize-happiness-of-selected-children', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 202, 'platform': 'leetcode', 'question_title': 'existence-of-a-substring-in-a-string-and-its-reverse', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 203, 'platform': 'leetcode', 'question_title': 'replace-question-marks-in-string-to-minimize-its-value', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 204, 'platform': 'leetcode', 'question_title': 'minimum-levels-to-gain-more-points', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 205, 'platform': 'leetcode', 'question_title': 'shortest-uncommon-substring-in-an-array', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 206, 'platform': 'leetcode', 'question_title': 'minimum-deletions-to-make-string-k-special', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 207, 'platform': 'leetcode', 'question_title': 'latest-time-you-can-obtain-after-replacing-characters', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 208, 'platform': 'leetcode', 'question_title': 'find-the-median-of-the-uniqueness-array', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 209, 'platform': 'leetcode', 'question_title': 'most-frequent-ids', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 210, 'platform': 'leetcode', 'question_title': 'minimum-sum-of-values-by-dividing-array', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 211, 'platform': 'leetcode', 'question_title': 'find-the-sum-of-encrypted-integers', 'difficulty': 'easy', 'pass@1': 0.8}
+{'idx': 212, 'platform': 'leetcode', 'question_title': 'harshad-number', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 213, 'platform': 'leetcode', 'question_title': 'longest-strictly-increasing-or-strictly-decreasing-subarray', 'difficulty': 'easy', 'pass@1': 0.9}
+{'idx': 214, 'platform': 'leetcode', 'question_title': 'maximum-prime-difference', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 215, 'platform': 'leetcode', 'question_title': 'count-alternating-subarrays', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 216, 'platform': 'leetcode', 'question_title': 'kth-smallest-amount-with-single-denomination-combination', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 217, 'platform': 'leetcode', 'question_title': 'longest-common-suffix-queries', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 218, 'platform': 'leetcode', 'question_title': 'score-of-a-string', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 219, 'platform': 'leetcode', 'question_title': 'shortest-subarray-with-or-at-least-k-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 220, 'platform': 'leetcode', 'question_title': 'find-the-number-of-subarrays-where-boundary-elements-are-maximum', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 221, 'platform': 'leetcode', 'question_title': 'taking-maximum-energy-from-the-mystic-dungeon', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 222, 'platform': 'leetcode', 'question_title': 'minimum-number-of-operations-to-make-word-k-periodic', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 223, 'platform': 'leetcode', 'question_title': 'minimum-operations-to-make-median-of-array-equal-to-k', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 224, 'platform': 'leetcode', 'question_title': 'right-triangles', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 225, 'platform': 'leetcode', 'question_title': 'minimum-array-end', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 226, 'platform': 'leetcode', 'question_title': 'minimum-length-of-anagram-concatenation', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 227, 'platform': 'leetcode', 'question_title': 'valid-word', 'difficulty': 'easy', 'pass@1': 0.5}
+{'idx': 228, 'platform': 'leetcode', 'question_title': 'find-the-integer-added-to-array-i', 'difficulty': 'easy', 'pass@1': 0.2}
+{'idx': 229, 'platform': 'leetcode', 'question_title': 'make-a-square-with-the-same-color', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 230, 'platform': 'leetcode', 'question_title': 'minimum-cost-to-equalize-array', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 231, 'platform': 'leetcode', 'question_title': 'minimum-substring-partition-of-equal-character-frequency', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 232, 'platform': 'leetcode', 'question_title': 'find-all-possible-stable-binary-arrays-i', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 233, 'platform': 'leetcode', 'question_title': 'count-the-number-of-special-characters-i', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 234, 'platform': 'leetcode', 'question_title': 'find-products-of-elements-of-big-array', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 235, 'platform': 'leetcode', 'question_title': 'permutation-difference-between-two-strings', 'difficulty': 'easy', 'pass@1': 0.9}
+{'idx': 236, 'platform': 'leetcode', 'question_title': 'find-number-of-ways-to-reach-the-k-th-stair', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 237, 'platform': 'leetcode', 'question_title': 'sum-of-digit-differences-of-all-pairs', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 238, 'platform': 'leetcode', 'question_title': 'find-occurrences-of-an-element-in-an-array', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 239, 'platform': 'leetcode', 'question_title': 'maximum-sum-of-subsequence-with-non-adjacent-elements', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 240, 'platform': 'leetcode', 'question_title': 'find-the-xor-of-numbers-which-appear-twice', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 241, 'platform': 'leetcode', 'question_title': 'special-array-i', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 242, 'platform': 'leetcode', 'question_title': 'find-the-number-of-good-pairs-i', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 243, 'platform': 'leetcode', 'question_title': 'string-compression-iii', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 244, 'platform': 'atcoder', 'question_title': 'Overall Winner', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 245, 'platform': 'atcoder', 'question_title': 'Fill the Gaps', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 246, 'platform': 'atcoder', 'question_title': 'AtCoder Cards', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 247, 'platform': 'atcoder', 'question_title': 'Bitmask', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 248, 'platform': 'atcoder', 'question_title': 'Pac', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 249, 'platform': 'atcoder', 'question_title': 'Anti', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 250, 'platform': 'atcoder', 'question_title': 'Attack', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 251, 'platform': 'atcoder', 'question_title': 'Find snuke', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 252, 'platform': 'atcoder', 'question_title': 'Almost Equal', 'difficulty': 'medium', 'pass@1': 0.1}
+{'idx': 253, 'platform': 'atcoder', 'question_title': 'Impartial Gift', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 254, 'platform': 'atcoder', 'question_title': 'Isolation', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 255, 'platform': 'atcoder', 'question_title': 'Merge Set', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 256, 'platform': 'atcoder', 'question_title': 'Similar String', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 257, 'platform': 'atcoder', 'question_title': 'Discord', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 258, 'platform': 'atcoder', 'question_title': 'Dash', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 259, 'platform': 'atcoder', 'question_title': 'Shift vs. CapsLock', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 260, 'platform': 'atcoder', 'question_title': 'A Gift From the Stars', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 261, 'platform': 'atcoder', 'question_title': 'First Player', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 262, 'platform': 'atcoder', 'question_title': 'Subscribers', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 263, 'platform': 'atcoder', 'question_title': 'Virus', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 264, 'platform': 'atcoder', 'question_title': 'A Piece of Cake', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 265, 'platform': 'atcoder', 'question_title': 'Good Graph', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 266, 'platform': 'atcoder', 'question_title': 'Water Station', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 267, 'platform': 'atcoder', 'question_title': 'ABCDEFG', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 268, 'platform': 'atcoder', 'question_title': 'Snuke the Cookie Picker', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 269, 'platform': 'atcoder', 'question_title': 'Sleep Log', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 270, 'platform': 'atcoder', 'question_title': 'Art Gallery on Graph', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 271, 'platform': 'atcoder', 'question_title': 'Echo', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 272, 'platform': 'atcoder', 'question_title': 'Base 2', 'difficulty': 'easy', 'pass@1': 0.7}
+{'idx': 273, 'platform': 'atcoder', 'question_title': 'Centers', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 274, 'platform': 'atcoder', 'question_title': 'Poisonous Full', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 275, 'platform': 'atcoder', 'question_title': 'Best Performances', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 276, 'platform': 'atcoder', 'question_title': 'Weekly Records', 'difficulty': 'easy', 'pass@1': 0.3}
+{'idx': 277, 'platform': 'atcoder', 'question_title': 'racecar', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 278, 'platform': 'atcoder', 'question_title': 'Ideal Sheet', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 279, 'platform': 'atcoder', 'question_title': 'Mismatched Parentheses', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 280, 'platform': 'atcoder', 'question_title': 'Distinct Adjacent', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 281, 'platform': 'atcoder', 'question_title': 'New Scheme', 'difficulty': 'easy', 'pass@1': 0.7}
+{'idx': 282, 'platform': 'atcoder', 'question_title': 'Default Price', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 283, 'platform': 'atcoder', 'question_title': 'Standings', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 284, 'platform': 'atcoder', 'question_title': 'Snuke Maze', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 285, 'platform': 'atcoder', 'question_title': 'MEX', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 286, 'platform': 'atcoder', 'question_title': 'Vouchers', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 287, 'platform': 'atcoder', 'question_title': 'Nine', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 288, 'platform': 'atcoder', 'question_title': 'Rotate', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 289, 'platform': 'atcoder', 'question_title': 'Medicine', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 290, 'platform': 'atcoder', 'question_title': 'Add One Edge', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 291, 'platform': 'atcoder', 'question_title': 'Family and Insurance', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 292, 'platform': 'atcoder', 'question_title': 'Order Something Else', 'difficulty': 'easy', 'pass@1': 0.2}
+{'idx': 293, 'platform': 'atcoder', 'question_title': 'Strictly Superior', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 294, 'platform': 'atcoder', 'question_title': 'Reversible', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 295, 'platform': 'atcoder', 'question_title': 'Peaceful Teams', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 296, 'platform': 'atcoder', 'question_title': 'NAND repeatedly', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 297, 'platform': 'atcoder', 'question_title': 'Make 10 Again', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 298, 'platform': 'atcoder', 'question_title': 'First ABC', 'difficulty': 'easy', 'pass@1': 0.6}
+{'idx': 299, 'platform': 'atcoder', 'question_title': 'Vacation Together', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 300, 'platform': 'atcoder', 'question_title': 'Find it!', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 301, 'platform': 'atcoder', 'question_title': 'Grid Ice Floor', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 302, 'platform': 'atcoder', 'question_title': 'Defect', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 303, 'platform': 'atcoder', 'question_title': 'Chord', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 304, 'platform': 'atcoder', 'question_title': 'TaK Code', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 305, 'platform': 'atcoder', 'question_title': 'Invisible Hand', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 306, 'platform': 'atcoder', 'question_title': 'Count Bracket Sequences', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 307, 'platform': 'atcoder', 'question_title': 'Tangency of Cuboids', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 308, 'platform': 'atcoder', 'question_title': 'Cans and Openers', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 309, 'platform': 'atcoder', 'question_title': 'To Be Saikyo', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 310, 'platform': 'atcoder', 'question_title': 'Who is Saikyo?', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 311, 'platform': 'atcoder', 'question_title': 'Approximate Equalization 2', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 312, 'platform': 'atcoder', 'question_title': '3.14', 'difficulty': 'easy', 'pass@1': 0.5}
+{'idx': 313, 'platform': 'atcoder', 'question_title': 'Roulette', 'difficulty': 'easy', 'pass@1': 0.3}
+{'idx': 314, 'platform': 'atcoder', 'question_title': 'Rotate Colored Subsequence', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 315, 'platform': 'atcoder', 'question_title': 'LOWER', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 316, 'platform': 'atcoder', 'question_title': 'Roulettes', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 317, 'platform': 'atcoder', 'question_title': 'A Certain Game', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 318, 'platform': 'atcoder', 'question_title': 'tcdr', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 319, 'platform': 'atcoder', 'question_title': 'The Middle Day', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 320, 'platform': 'atcoder', 'question_title': 'Flavors', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 321, 'platform': 'atcoder', 'question_title': 'Magical Cookies', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 322, 'platform': 'atcoder', 'question_title': 'Prerequisites', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 323, 'platform': 'atcoder', 'question_title': 'Shortcuts', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 324, 'platform': 'atcoder', 'question_title': 'Full Moon', 'difficulty': 'easy', 'pass@1': 0.8}
+{'idx': 325, 'platform': 'atcoder', 'question_title': 'Overlapping sheets', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 326, 'platform': 'atcoder', 'question_title': 'Blue Spring', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 327, 'platform': 'atcoder', 'question_title': 'General Weighted Max Matching', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 328, 'platform': 'atcoder', 'question_title': 'Sandwiches', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 329, 'platform': 'atcoder', 'question_title': 'Measure', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 330, 'platform': 'atcoder', 'question_title': 'False Hope', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 331, 'platform': 'atcoder', 'question_title': 'Minimum Width', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 332, 'platform': 'atcoder', 'question_title': 'Bus Stops', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 333, 'platform': 'atcoder', 'question_title': 'Leyland Number', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 334, 'platform': 'atcoder', 'question_title': 'Longest Palindrome', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 335, 'platform': 'atcoder', 'question_title': 'Slot Strategy 2 (Easy)', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 336, 'platform': 'atcoder', 'question_title': 'Relative Position', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 337, 'platform': 'atcoder', 'question_title': 'Somen Nagashi', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 338, 'platform': 'atcoder', 'question_title': '321', 'difficulty': 'easy', 'pass@1': 0.7}
+{'idx': 339, 'platform': 'atcoder', 'question_title': 'Cutoff', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 340, 'platform': 'atcoder', 'question_title': '321', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 341, 'platform': 'atcoder', 'question_title': 'Set Menu', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 342, 'platform': 'atcoder', 'question_title': 'Complete Binary Tree', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 343, 'platform': 'atcoder', 'question_title': 'First ABC 2', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 344, 'platform': 'atcoder', 'question_title': 'Prefix and Suffix', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 345, 'platform': 'atcoder', 'question_title': 'Festival', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 346, 'platform': 'atcoder', 'question_title': 'Polyomino', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 347, 'platform': 'atcoder', 'question_title': 'Product Development', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 348, 'platform': 'atcoder', 'question_title': 'Weak Beats', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 349, 'platform': 'atcoder', 'question_title': 'Round', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 350, 'platform': 'atcoder', 'question_title': 'World Tour Finals', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 351, 'platform': 'atcoder', 'question_title': 'Merge Slimes', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 352, 'platform': 'atcoder', 'question_title': 'Playlist', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 353, 'platform': 'atcoder', 'question_title': 'Same', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 354, 'platform': 'atcoder', 'question_title': '3', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 355, 'platform': 'atcoder', 'question_title': 'Error Correction', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 356, 'platform': 'atcoder', 'question_title': 'Square Permutation', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 357, 'platform': 'atcoder', 'question_title': 'Joint Two Strings', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 358, 'platform': 'atcoder', 'question_title': 'Beautiful Path', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 359, 'platform': 'atcoder', 'question_title': 'Takahashi san', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 360, 'platform': 'atcoder', 'question_title': 'World Meeting', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 361, 'platform': 'atcoder', 'question_title': 'Sensors', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 362, 'platform': 'atcoder', 'question_title': 'Printing Machine', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 363, 'platform': 'atcoder', 'question_title': 'Our clients, please wait a moment', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 364, 'platform': 'atcoder', 'question_title': 'Sensor Optimization Dilemma', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 365, 'platform': 'atcoder', 'question_title': '2UP3DOWN', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 366, 'platform': 'atcoder', 'question_title': '326', 'difficulty': 'easy', 'pass@1': 0.7}
+{'idx': 367, 'platform': 'atcoder', 'question_title': 'Peak', 'difficulty': 'medium', 'pass@1': 0.8}
+{'idx': 368, 'platform': 'atcoder', 'question_title': 'ABC Puzzle', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 369, 'platform': 'atcoder', 'question_title': 'Revenge of "The Salary of AtCoder Inc."', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 370, 'platform': 'atcoder', 'question_title': 'ab', 'difficulty': 'easy', 'pass@1': 0.8}
+{'idx': 371, 'platform': 'atcoder', 'question_title': 'A^A', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 372, 'platform': 'atcoder', 'question_title': 'Number Place', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 373, 'platform': 'atcoder', 'question_title': 'Good Tuple Problem', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 374, 'platform': 'atcoder', 'question_title': 'Maximize Rating', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 375, 'platform': 'atcoder', 'question_title': 'Not Too Hard', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 376, 'platform': 'atcoder', 'question_title': '11/11', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 377, 'platform': 'atcoder', 'question_title': 'Consecutive', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 378, 'platform': 'atcoder', 'question_title': 'Take ABC', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 379, 'platform': 'atcoder', 'question_title': 'Modulo MST', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 380, 'platform': 'atcoder', 'question_title': 'Spread', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 381, 'platform': 'atcoder', 'question_title': 'Next', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 382, 'platform': 'atcoder', 'question_title': 'Count xxx', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 383, 'platform': 'atcoder', 'question_title': 'Election Quick Report', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 384, 'platform': 'atcoder', 'question_title': 'Stamp', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 385, 'platform': 'atcoder', 'question_title': 'Colored Ball', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 386, 'platform': 'atcoder', 'question_title': 'Counting Passes', 'difficulty': 'easy', 'pass@1': 0.9}
+{'idx': 387, 'platform': 'atcoder', 'question_title': 'Minimize Abs 1', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 388, 'platform': 'atcoder', 'question_title': 'Minimize Abs 2', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 389, 'platform': 'atcoder', 'question_title': 'Counting Ls', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 390, 'platform': 'atcoder', 'question_title': 'Mex and Update', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 391, 'platform': 'atcoder', 'question_title': 'Tomorrow', 'difficulty': 'easy', 'pass@1': 0.5}
+{'idx': 392, 'platform': 'atcoder', 'question_title': 'Buy One Carton of Milk', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 393, 'platform': 'atcoder', 'question_title': 'Sum of Numbers Greater Than Me', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 394, 'platform': 'atcoder', 'question_title': 'Tile Pattern', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 395, 'platform': 'atcoder', 'question_title': 'Set Meal', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 396, 'platform': 'atcoder', 'question_title': 'Online Shopping', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 397, 'platform': 'atcoder', 'question_title': 'Glass and Mug', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 398, 'platform': 'atcoder', 'question_title': 'T', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 399, 'platform': 'atcoder', 'question_title': 'Swapping Puzzle', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 400, 'platform': 'atcoder', 'question_title': 'Three Threes', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 401, 'platform': 'atcoder', 'question_title': 'Pentagon', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 402, 'platform': 'atcoder', 'question_title': 'Repunit Trio', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 403, 'platform': 'atcoder', 'question_title': 'Erase Leaves', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 404, 'platform': 'atcoder', 'question_title': 'Takahashi Quest', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 405, 'platform': 'atcoder', 'question_title': 'Christmas Present', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 406, 'platform': 'atcoder', 'question_title': 'Christmas Trees', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 407, 'platform': 'atcoder', 'question_title': 'Socks 2', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 408, 'platform': 'atcoder', 'question_title': 'Reindeer and Sleigh', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 409, 'platform': 'atcoder', 'question_title': 'Christmas Color Grid 1', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 410, 'platform': 'atcoder', 'question_title': '202<s>3</s>', 'difficulty': 'easy', 'pass@1': 0.8}
+{'idx': 411, 'platform': 'atcoder', 'question_title': 'Tetrahedral Number', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 412, 'platform': 'atcoder', 'question_title': 'Loong Tracking', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 413, 'platform': 'atcoder', 'question_title': 'Loong and Takahashi', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 414, 'platform': 'atcoder', 'question_title': 'Long Loong', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 415, 'platform': 'atcoder', 'question_title': 'CTZ', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 416, 'platform': 'atcoder', 'question_title': 'Even Digits', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 417, 'platform': 'atcoder', 'question_title': 'Pyramid', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 418, 'platform': 'atcoder', 'question_title': 'Scoreboard', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 419, 'platform': 'atcoder', 'question_title': 'Extended ABC', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 420, 'platform': 'atcoder', 'question_title': 'Lining Up 2', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 421, 'platform': 'atcoder', 'question_title': 'Cheating Gomoku Narabe', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 422, 'platform': 'atcoder', 'question_title': 'Bad Juice', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 423, 'platform': 'atcoder', 'question_title': 'Capitalized?', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 424, 'platform': 'atcoder', 'question_title': 'Frequency', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 425, 'platform': 'atcoder', 'question_title': 'Leftover Recipes', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 426, 'platform': 'atcoder', 'question_title': 'Island Tour', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 427, 'platform': 'atcoder', 'question_title': 'Chords', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 428, 'platform': 'atcoder', 'question_title': 'Negative Traveling Salesman', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 429, 'platform': 'atcoder', 'question_title': 'TLD', 'difficulty': 'easy', 'pass@1': 0.6}
+{'idx': 430, 'platform': 'atcoder', 'question_title': "Langton's Takahashi", 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 431, 'platform': 'atcoder', 'question_title': 'Perfect Bus', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 432, 'platform': 'atcoder', 'question_title': 'Synchronized Players', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 433, 'platform': 'atcoder', 'question_title': 'Arithmetic Progression', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 434, 'platform': 'atcoder', 'question_title': 'Append', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 435, 'platform': 'atcoder', 'question_title': 'Divide and Divide', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 436, 'platform': 'atcoder', 'question_title': 'Super Takahashi Bros.', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 437, 'platform': 'atcoder', 'question_title': 'Mancala 2', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 438, 'platform': 'atcoder', 'question_title': 'Print 341', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 439, 'platform': 'atcoder', 'question_title': 'Foreign Exchange', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 440, 'platform': 'atcoder', 'question_title': 'Takahashi Gets Lost', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 441, 'platform': 'atcoder', 'question_title': 'Only one of two', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 442, 'platform': 'atcoder', 'question_title': 'Alternating String', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 443, 'platform': 'atcoder', 'question_title': 'Breakdown', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 444, 'platform': 'atcoder', 'question_title': 'Yay!', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 445, 'platform': 'atcoder', 'question_title': 'Which is ahead?', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 446, 'platform': 'atcoder', 'question_title': 'Many Replacement', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 447, 'platform': 'atcoder', 'question_title': 'Square Pair', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 448, 'platform': 'atcoder', 'question_title': 'Last Train', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 449, 'platform': 'atcoder', 'question_title': 'Wrong Answer', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 450, 'platform': 'atcoder', 'question_title': 'Adjacency Matrix', 'difficulty': 'easy', 'pass@1': 0.4}
+{'idx': 451, 'platform': 'atcoder', 'question_title': '343', 'difficulty': 'medium', 'pass@1': 0.5}
+{'idx': 452, 'platform': 'atcoder', 'question_title': 'Diversity of Scores', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 453, 'platform': 'atcoder', 'question_title': '7x7x7', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 454, 'platform': 'atcoder', 'question_title': 'Spoiler', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 455, 'platform': 'atcoder', 'question_title': 'Delimiter', 'difficulty': 'easy', 'pass@1': 0.7}
+{'idx': 456, 'platform': 'atcoder', 'question_title': 'A+B+C', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 457, 'platform': 'atcoder', 'question_title': 'String Bags', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 458, 'platform': 'atcoder', 'question_title': 'Insert or Erase', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 459, 'platform': 'atcoder', 'question_title': 'Integer Division Returns', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 460, 'platform': 'atcoder', 'question_title': 'Tiling', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 461, 'platform': 'atcoder', 'question_title': 'Adjacent Product', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 462, 'platform': 'atcoder', 'question_title': 'Piano', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 463, 'platform': 'atcoder', 'question_title': 'Σ', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 464, 'platform': 'atcoder', 'question_title': 'Gomamayo Sequence', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 465, 'platform': 'atcoder', 'question_title': 'Paint', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 466, 'platform': 'atcoder', 'question_title': 'Divisible', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 467, 'platform': 'atcoder', 'question_title': 'Substring', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 468, 'platform': 'atcoder', 'question_title': 'Ideal Holidays', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 469, 'platform': 'atcoder', 'question_title': 'Set Add Query', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 470, 'platform': 'atcoder', 'question_title': 'Penalty Kick', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 471, 'platform': 'atcoder', 'question_title': 'Farthest Point', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 472, 'platform': 'atcoder', 'question_title': 'Colorful Beans', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 473, 'platform': 'atcoder', 'question_title': 'Medicines on Grid', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 474, 'platform': 'atcoder', 'question_title': 'Minimize Sum of Distances', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 475, 'platform': 'atcoder', 'question_title': 'Zero Sum Game', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 476, 'platform': 'atcoder', 'question_title': 'Commencement', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 477, 'platform': 'atcoder', 'question_title': 'Airport Code', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 478, 'platform': 'atcoder', 'question_title': 'Divide Interval', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 479, 'platform': 'atcoder', 'question_title': 'Weighted Tic', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 480, 'platform': 'atcoder', 'question_title': 'Past ABCs', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 481, 'platform': 'atcoder', 'question_title': 'Dentist Aoki', 'difficulty': 'easy', 'pass@1': 0.5}
+{'idx': 482, 'platform': 'atcoder', 'question_title': 'Sort', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 483, 'platform': 'atcoder', 'question_title': 'New Friends', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 484, 'platform': 'atcoder', 'question_title': 'Toward 0', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 485, 'platform': 'atcoder', 'question_title': 'The bottom of the ninth', 'difficulty': 'easy', 'pass@1': 0.8}
+{'idx': 486, 'platform': 'atcoder', 'question_title': 'Spot the Difference', 'difficulty': 'easy', 'pass@1': 1.0}
+{'idx': 487, 'platform': 'atcoder', 'question_title': 'Merge the balls', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 488, 'platform': 'atcoder', 'question_title': 'Grid and Magnet', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 489, 'platform': 'atcoder', 'question_title': 'Jump Distance Sum', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 490, 'platform': 'atcoder', 'question_title': 'Double Sum', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 491, 'platform': 'atcoder', 'question_title': 'AtCoder Line', 'difficulty': 'easy', 'pass@1': 0.9}
+{'idx': 492, 'platform': 'atcoder', 'question_title': 'Typing', 'difficulty': 'easy', 'pass@1': 0.1}
+{'idx': 493, 'platform': 'atcoder', 'question_title': 'Standing On The Shoulders', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 494, 'platform': 'atcoder', 'question_title': 'Permutation Subsequence', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 495, 'platform': 'atcoder', 'question_title': 'Clique Connect', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 496, 'platform': 'atcoder', 'question_title': 'Buildings', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 497, 'platform': 'atcoder', 'question_title': 'AtCoder Amusement Park', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 498, 'platform': 'atcoder', 'question_title': 'Sigma Problem', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 499, 'platform': 'atcoder', 'question_title': 'Another Sigma Problem', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 500, 'platform': 'atcoder', 'question_title': 'Yet Another Sigma Problem', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 501, 'platform': 'atcoder', 'question_title': 'Exponential Plant', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 502, 'platform': 'atcoder', 'question_title': 'AtCoder Janken 2', 'difficulty': 'easy', 'pass@1': 0.9}
+{'idx': 503, 'platform': 'atcoder', 'question_title': 'AtCoder Magics', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 504, 'platform': 'atcoder', 'question_title': 'AtCoder Wallpaper', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 505, 'platform': 'atcoder', 'question_title': 'Remove Pairs', 'difficulty': 'hard', 'pass@1': 0.0}
+{'idx': 506, 'platform': 'atcoder', 'question_title': 'Who Ate the Cake?', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 507, 'platform': 'atcoder', 'question_title': 'Piano 2', 'difficulty': 'easy', 'pass@1': 0.0}
+{'idx': 508, 'platform': 'atcoder', 'question_title': 'Bingo 2', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 509, 'platform': 'atcoder', 'question_title': 'Intersecting Intervals', 'difficulty': 'medium', 'pass@1': 0.0}
+{'idx': 510, 'platform': 'atcoder', 'question_title': 'Guess the Sum', 'difficulty': 'hard', 'pass@1': 0.0}
